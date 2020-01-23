@@ -1,0 +1,1 @@
+imie|s:4:"Hash";nazwisko|s:9:"Hashowski";is_auth|i:0;

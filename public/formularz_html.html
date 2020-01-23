@@ -1,0 +1,11 @@
+<body>
+	<form action="formularz_php.php" method="get">
+		<input type="text" name="imie" placeholder="Imie"><br/>
+		<input type="text" name="nazwisko" placeholder="Nazwisko"><br/>
+		<label for="plec-m">Mężczyzna</label><input type="radio" name="plec" value="m" id="plec-m">
+		<label for="plec-k">Kobieta</label><input type="radio" name="plec" value="k" id="plec-k"><br/>
+		<label for="zgoda">Zgadzam się na warunki</label><input type="checkbox" name="zgoda" id="zgoda" required><br/>
+		<input type="number" name="wiek" placeholder="Wiek" min=1 max=99><br/>
+		<input type="submit" name="submit" value="Wyślij">
+	</form>
+</body>

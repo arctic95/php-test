@@ -1,0 +1,31 @@
+	body {
+		background-color: #DFDFDF;
+	}
+	main {
+		display: flex;
+		justify-content: center;
+	}
+	.wraper{
+		max-width: 1000px;
+	}
+	h1 {
+		color: red;
+		border-bottom: 1px solid black;
+		font-family: helvetica;
+	}
+	.par1 {
+		font-weight: bold;
+		line-height: 25px;
+		font-family: sans-serif;
+		text-align: justify;
+	}
+	.par1::selection {
+		color: white;
+
+	}
+	.par1 > img {
+		float: right; 
+		margin: 20px; 
+		height: 200px; 
+		width: 200px;
+	}

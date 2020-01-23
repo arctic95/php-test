@@ -1,0 +1,1 @@
+a:4:{i:0;s:2:"ar";i:1;s:4:"Kolo";i:2;s:9:"art@o2.pl";i:3;s:60:"$2y$10$hILX.wjl69DL6TxuYF0vbeJhmx56EH5mxRbASrmWU6/X6qdh6zPPK";}

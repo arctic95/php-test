@@ -1,0 +1,1 @@
+a|s:6:"ananas";b|s:5:"banan";c|s:7:"cytryna";

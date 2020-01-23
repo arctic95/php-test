@@ -1,0 +1,1 @@
+a:2:{s:4:"imie";s:7:"Stefann";s:5:"email";s:9:"stf@o2.pl";}
